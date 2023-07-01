@@ -2,7 +2,7 @@
 
 - 아래 내용은 macOS 사용자 기준으로 작성되었습니다.
 
-## NVM (Node Version Manager)
+### NVM (Node Version Manager)
 
 - Node.js를 설치하고 관리하기 위한 셀 스크립트로 다양한 Node.js 버전을 사용하기에 적합합니다.
 
